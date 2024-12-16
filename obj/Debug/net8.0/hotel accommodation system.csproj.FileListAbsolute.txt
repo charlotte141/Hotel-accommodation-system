@@ -1,0 +1,14 @@
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\bin\Debug\net8.0\hotel accommodation system.exe
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\bin\Debug\net8.0\hotel accommodation system.deps.json
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\bin\Debug\net8.0\hotel accommodation system.runtimeconfig.json
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\bin\Debug\net8.0\hotel accommodation system.dll
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\bin\Debug\net8.0\hotel accommodation system.pdb
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\hotel accommodation system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\hotel accommodation system.AssemblyInfoInputs.cache
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\hotel accommodation system.AssemblyInfo.cs
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\hotel accommodation system.csproj.CoreCompileInputs.cache
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\hotel accommodation system.dll
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\refint\hotel accommodation system.dll
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\hotel accommodation system.pdb
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\hotel accommodation system.genruntimeconfig.cache
+C:\Users\delci\OneDrive\Documentos\C#\hotel accommodation system\obj\Debug\net8.0\ref\hotel accommodation system.dll
